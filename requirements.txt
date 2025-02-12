@@ -3,7 +3,5 @@ numpy
 pandas
 scikit-learn
 tensorflow
-random
-time
 keras
 
