@@ -5,7 +5,7 @@ import tensorflow as tf
 from keras.models import load_model
 import time
 import random
-model = load_model(r"C:\Users\ASUS\Downloads\plantDiseaseClassification.h5")
+model = load_model("plantDiseaseClassification.h5")
 # Page Configurations
 st.set_page_config(page_title="🌿 Plant Disease Detection", page_icon="🌱", layout="wide")
 
